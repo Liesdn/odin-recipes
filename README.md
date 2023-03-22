@@ -10,3 +10,5 @@ Sweetroll pic from The Elder Scrolls V Skyrim
 Sweetroll recipe from https://www.instructables.com/Foods-of-Skyrim-Sweet-Rolls/
 Johnny Silverhand pic from https://www.reddit.com/r/cocktails/comments/k9y9uv/johnny_silverhand_cocktail_from_cyberpunk/
 Johnny Silverhand recipe from https://www.youtube.com/watch?v=c9tMbVU9ymY&ab_channel=HowToDrink
+
+live preview:  https://liesdn.github.io/odin-recipes/ 
